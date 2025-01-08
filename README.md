@@ -8,7 +8,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-# Live App: https://quiz-app-using-react-js-karan8904s-projects.vercel.app/
+# Live App: 
+https://quiz-app-using-react-js-karan8904s-projects.vercel.app/
 
 # Screenshots:
 ![q1](https://github.com/user-attachments/assets/38c6af5e-2f89-4bc2-9db5-57db603c4678)
